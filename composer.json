@@ -1,0 +1,29 @@
+{
+    "name": "edmondscommerce/prototypejs-context",
+    "description": "A Behat Context that provide support functionality to deal with sites which use the prototype js library such as magento",
+    "keywords": [
+        "Behat",
+        "Testing",
+        "Browser Testing",
+        "Prototype",
+        "Javascript",
+        "Magento"
+    ],
+    "homepage": "https://www.edmondscommerce.co.uk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "edmondscommerce",
+            "email": "info@edmondscommerce.co.uk"
+        }
+    ],
+    "require": {
+      ""
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "EdmondsCommerce\\PrototypeJsContext\\": "src/"
+        }
+    }
+}
