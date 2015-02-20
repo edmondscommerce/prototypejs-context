@@ -17,9 +17,6 @@
             "email": "info@edmondscommerce.co.uk"
         }
     ],
-    "require": {
-      ""
-    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
