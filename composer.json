@@ -17,6 +17,9 @@
             "email": "info@edmondscommerce.co.uk"
         }
     ],
+    "require": {
+        "behat/mink": "~1.6"
+    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
