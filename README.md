@@ -1,4 +1,4 @@
-#Behat Prototype Js Context
+# Behat Prototype Js Context
 ## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
 A simple Behat Context provides functionality for prototype
