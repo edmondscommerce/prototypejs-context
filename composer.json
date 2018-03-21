@@ -20,7 +20,6 @@
     "require": {
         "behat/mink": "~1.6"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "EdmondsCommerce\\PrototypeJsContext\\": "src/"
